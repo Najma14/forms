@@ -1,0 +1,33 @@
+body{
+    background-color: peachpuff;
+}
+
+h1{
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+}
+.desg ul li:nth-child(1){
+    margin-bottom: 5px;
+
+}
+.desg ul li:nth-child(2){
+    margin-bottom: 5px;
+    
+
+}
+.desg ul li input:nth-child(2)
+{
+    padding-left: 10px;
+}
+
+
+.butt{
+    background-color:rgb(8, 177, 8);
+    margin-top: 20px;
+}
+.file{
+    margin-left: 10px;
+}
+
+
+
